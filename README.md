@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-<div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnupasuleti&show_icons=true&theme=dark" alt="ardalis" />
-<div/>
 <br />
   
 <div>
